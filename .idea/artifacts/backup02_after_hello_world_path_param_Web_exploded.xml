@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="backup02-after-hello-world-path-param:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/backup02_after_hello_world_path_param_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="backup02-after-hello-world-path-param/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="backup02-after-hello-world-path-param" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
